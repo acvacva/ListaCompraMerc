@@ -10,6 +10,7 @@ public class ListaCompraMercApplication {
 		SpringApplication.run(ListaCompraMercApplication.class, args);
 		System.out.println("Hola sharing this project");
 		System.out.println("Finalizada la lista");
+		System.out.println("Mi lista de componentes para el proyecto");
 	}
 
 }
